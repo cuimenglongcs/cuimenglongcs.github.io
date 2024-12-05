@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[中文简历]() | [英文简历]()
+
 Education
 ======
 * M.S. in Tianjin, Tianjin University, 2022-2025
