@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-I am currently an Algorithm Engineer at Xiaomi AI Lab, with a primary research focus on multilingual large models and multilingual translation.
+I am currently an Algorithm Engineer at Xiaomi AI Lab, with a primary research focus on multilingual large language models and multilingual machine translation.
 
 Name: Menglong Cui
 
