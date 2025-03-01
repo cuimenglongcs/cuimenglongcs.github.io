@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[中文简历](https://modelspace-1.github.io/files/Chinese_Resume.pdf) | [英文简历]()
+[中文简历](https://cuimenglongcs.github.io/files/Chinese_Resume.pdf) | [英文简历]()
 
 Education
 ======

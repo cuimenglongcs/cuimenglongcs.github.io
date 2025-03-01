@@ -15,7 +15,7 @@ Name: Menglong Cui
 
 Google Scholar: [link](https://scholar.google.com.hk/citations?user=voq0TYoAAAAJ)
 
-Github: [link](https://github.com/ModelSpace-1)
+Github: [link](https://github.com/cuimenglongcs)
 
 Email：cuimenglongcs@gmail.com
 
@@ -35,7 +35,7 @@ Jinlin University, 985, Software Engineering, Undergraduate   					 2018.09 - 20
 
 谷歌学术：[地址](https://scholar.google.com.hk/citations?user=voq0TYoAAAAJ)
 
-Github: [地址](https://github.com/ModelSpace-1)
+Github: [地址](https://github.com/cuimenglongcs)
 
 邮箱：cuimenglongcs@gmail.com
 
