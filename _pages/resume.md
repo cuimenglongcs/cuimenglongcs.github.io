@@ -30,3 +30,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Project
+======
+* Training a Multilingual Translation Model with Performance Comparable to GPT-4-Turbo and Google Translate.
+  * [Models]{https://huggingface.co/collections/ModelSpace/gemmax2-673714f5049bfa3a90bee6b6}

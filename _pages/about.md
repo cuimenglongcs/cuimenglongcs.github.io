@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-I am currently an Algorithm Engineer at Xiaomi AI Lab, with a primary research focus on multilingual large language models and multilingual machine translation.
+I previously interned as an algorithm engineer at Xiaomi AI Lab, where I focused on large language models and multilingual translation. Currently, I am a search algorithm engineer at Kuaishou, working in the Search Growth Team.
 
 Name: Menglong Cui
 
@@ -27,9 +27,7 @@ Jinlin University, 985, Software Engineering, Undergraduate   					 2018.09 - 20
 
 # 关于我
 
-我目前是快手-社区科学线-搜索技术中心-搜索外增长组的NLP算法工程师。
-
-我目前是小米AI实验室的算法工程师，主要研究方向为多语言大模型和多语言翻译。
+我曾在小米 AI 实验室担任算法工程师实习生，主要研究方向为大语言模型和多语言翻译。目前就职于快手社区科学线搜索技术中心搜索外增长组，担任搜索算法工程师。
 
 姓名：崔梦龙
 
