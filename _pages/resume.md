@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2024.06 - 2025.1: Xiaomi AI Lab
+* 2024.06 - 2025.01: Xiaomi AI Lab
   * Mainly studies multilingual machine translation of large language models.
   
 Skills
