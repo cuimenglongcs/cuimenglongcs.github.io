@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[中文简历](https://cuimenglongcs.github.io/files/Chinese_Resume.pdf) | [英文简历]()
+[中文简历](https://cuimenglongcs.github.io/files/Chinese_Resume.pdf) | [English Resume]()
 
 Education
 ======
@@ -18,7 +18,10 @@ Education
 
 Work experience
 ======
+* 2024.03 - 2024.06: Meituan Core Local Commerce
+  * Software Engineering Intern
 * 2024.06 - 2025.01: Xiaomi AI Lab
+  * Algorithm Engineer Intern
   * Mainly studies multilingual machine translation of large language models.
   
 Skills
@@ -31,6 +34,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Project
+Projects
 ======
 * Training a Multilingual Translation Model with Performance Comparable to GPT-4-Turbo and Google Translate. [[Models]](https://huggingface.co/collections/ModelSpace/gemmax2-673714f5049bfa3a90bee6b6)
