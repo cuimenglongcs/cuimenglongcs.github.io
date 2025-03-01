@@ -27,6 +27,8 @@ Jinlin University, 985, Software Engineering, Undergraduate   					 2018.09 - 20
 
 # 关于我
 
+我目前是快手-社区科学线-搜索技术中心-搜索外增长组的NLP算法工程师。
+
 我目前是小米AI实验室的算法工程师，主要研究方向为多语言大模型和多语言翻译。
 
 姓名：崔梦龙
